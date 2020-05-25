@@ -46,7 +46,7 @@ También debemos tomar en cuenta que este tipo de trabajos son utilizados en muc
 
 En la figura de abajo vamos a ilustrar lo que viene siendo el rumbo.
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/1.png)
 
 
 
