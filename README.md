@@ -64,6 +64,91 @@ Para poder realizar dicho trabajo es necesario también sabes que fórmulas que 
                          
 ![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/3.png)
 
+Aquí mismo se aplica esa fórmula ya menciona-da y es así como se obtiene el valor del rumbo. 
+
+•	Calcular la distancia es el siguiente pa-so a realizar en este código aplicando otra fórmula donde se ocupan de los datos que se vienen manejando y poder obtener el resultado esperado.
+
+DISTANCIA = √(x2 – x1)2 + (y2 – y1)2
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/4.png)
+
+•	Proseguiremos con calcular las proyec-ciones tanto como “x” y cómo “y”. Tam-bién se emplean fórmulas para esta par-te de las proyecciones.
+
+PROYECCION X= distancia (Sen (rum-bo))
+
+PROYECCION Y= distancia (Cos (rum-bo))
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/5.png)
+
+Para que así finalmente se obtenga los rumbos y  las proyecciones de una superficie un área o un terreno.
+
+# 2.1. 	Manejo de datos
+
+# 1.	Tratamiento de datos
+
+El programa tomara los datos recaba-dos que la persona ingrese manualmen-te, de esta manera las instrucciones en el código seguirán hasta que se obten-ga lo buscado.
+
+# 2.	Plataforma
+
+Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/6.jpg)
+
+# 3.	Programas
+
+El programa que tiene una gran rele-vancia en este proyecto es el de Python. Esto por  la gran facilidad que le da a estos procedimientos.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/7.jpg)
+
+# 2.2. 	Resultados
+
+Tratamiento de datos
+
+El programa tomara los datos recabados que la persona ingrese manualmente, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado.
+
+Se observara la primera parte de resultados  que se explicó anteriormente dando los valores de las “x” y las “y“. (Son valores que se les die-ron para corroborar que si funcionaba y corría el programa).
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/8.png)
+
+En seguida se muestra el valor de los rumbos y de las distancias para así proseguir y sacar las proyecciones que ocuparíamos.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/9.png)
+
+Finalmente ya obtenidos los datos necesarios como distancia y rumbos podemos calcular las proyecciones.
+
+![PalabrasdelTextoAlternativo(https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/10.png)
+
+# 3. 	El resumen
+Un resumen de manera personal el proyecto aquí emplead como lo es “ Calculo de rumbos y proyecciones ”se me hace un código muy prác-tico para poder saber las proyecciones de un área superficie terreno oh el cual vean la manera más adecuada y correcta de emplear  y si es que puede funcionar en alguna otra área o algún otro objetivo. 
+
+Porque no, adelantes como mejor lo vea la persona para su adaptación. Por alcance la determinación de dicho código tiene un fin que si bien se ha venido dando a conocer como lo son las proyecciones y los rumbos.
+
+# Referencias
+
+•	https://www.cursosgis.com/cuales-con-las-ides-mas-actuales-y-recomendadas-para-trabajar-con-python/
+
+•	https://www.muycomputer.com/2019/01/14/adios-a-windows-7-un-ano/
+
+•	https://desktop.arcgis.com/es/arcmap/10.3/guide-books/map-projections/about-map-projections.htm
+
+•	https://sites.google.com/site/rumbosyazimut/introduccion
+
+•	https://es.slideshare.net/alexmay12/azimut-y-rumbo-maycol-vergara
+
+•	http://sanvincentvr.blogspot.com/2010/10/rumbo-y-direccion.html 
+
+
+# POSTER
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/11.png)
+
+
+
+
+
+
+
+
 
 
  
