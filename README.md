@@ -116,7 +116,7 @@ En seguida se muestra el valor de los rumbos y de las distancias para así prose
 
 Finalmente ya obtenidos los datos necesarios como distancia y rumbos podemos calcular las proyecciones.
 
-![PalabrasdelTextoAlternativo(https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/10.png)
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/10.png)
 
 # 3. 	El resumen
 Un resumen de manera personal el proyecto aquí emplead como lo es “ Calculo de rumbos y proyecciones ”se me hace un código muy prác-tico para poder saber las proyecciones de un área superficie terreno oh el cual vean la manera más adecuada y correcta de emplear  y si es que puede funcionar en alguna otra área o algún otro objetivo. 
