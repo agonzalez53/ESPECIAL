@@ -48,6 +48,27 @@ En la figura de abajo vamos a ilustrar lo que viene siendo el rumbo.
 
 ![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/1.png)
 
+Para poder realizar dicho trabajo es necesario también sabes que fórmulas que cosas ocupas para confortar el código a utilizar.
+
+•	Primeramente se tienen que pedir los datos en este caso seria los valores de la superficie en  que consta el terreno.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/2.png)
+
+
+ Ingresando los valores de las “X y Y” depen-diendo del terreno, superficie o área que se vaya a trabajar. Como en este caso tenemos x1	, x2, y1, y2.
+ 
+•	Continuando con el proceso teniendo esos valores ya, dado el código seguirá calcular los rumbo donde aquí  se em-plea una formula.
+
+          RUMBO = Tan-1  x2 - x1
+                         y2 – y1
+                         
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ESPECIAL/blob/master/IMAGENES/3.png)
+
+
+
+ 
+
+
 
 
 
