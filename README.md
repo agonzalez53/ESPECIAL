@@ -44,7 +44,7 @@ También debemos tomar en cuenta que este tipo de trabajos son utilizados en muc
 
 En la figura de abajo vamos a ilustrar lo que viene siendo el rumbo.
 
-![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/ilumi.jpg)
+![PalabrasdelTextoAlternativo]()
 
 
 
