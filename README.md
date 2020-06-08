@@ -1,15 +1,8 @@
 # CALCULAR RUMBOS Y PROYECCIONES 
-  
-#  Universidad de Colima
- 
+
 # Facultad de Ingeniería Civil
- 
 # Ingeniero Topógrafo Geomático
-  
 Alma Judith González Montes 
-
-Correo electronico:
-
 galma0564@gmail.com 
   
 # RESUMEN
